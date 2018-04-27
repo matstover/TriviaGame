@@ -8,6 +8,7 @@
 function tenSeconds() {
     setTimeout(tenSeconds, 1000 * 10);
 }
+
 // remember guesses
 var guesses = 0
 // need a way to convey each question, an array
